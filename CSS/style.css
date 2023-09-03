@@ -76,7 +76,7 @@ body{
     margin-bottom: 8px;
     font-weight: bold;
     border: solid;
-    background-color: black;
+    background-color: var(--preto);
 }
 
 .senhas:hover{
